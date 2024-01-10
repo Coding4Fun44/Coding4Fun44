@@ -1,0 +1,143 @@
+body {
+    background: #ccc;
+    font-family: 'Roboto', sans-serif;
+    position: relative; bottom: 53px;
+    margin-top: relative; right: 8px; 
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    transform: translateY(10px);
+    color: #fff;
+}
+
+.me {
+    text-align: center;
+}
+
+.tab-content{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+}
+.tab-content input[type="radio"] {
+    display: none;
+}
+.tab-content label{
+    padding: 25px;
+    background: #e2e2e2;
+    font-weight: bold;
+    margin-top: relative; right: 10px;
+    border-right: solid;
+}
+
+.tab-content .tab {
+    width: 100%;
+    background: #babbb7;
+    order: 1;
+    display: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.tab-content input[type='radio']:checked + label + .tab {
+    display: block;
+}
+
+.tab-content input[type="radio"]:checked + label {
+    background: #babbb7;
+}
+
+.image1 {
+    margin-left: 675px;
+    transform: translateY(10px);
+}
+
+.image {
+    margin-left: 665px;
+    transform: translateY(-55px);
+}
+
+.image2 {
+    margin-left: 659px;
+    transform: translateY(-135px);
+}
+
+.text1{
+    margin-left: 728px;
+    transform: translateY(-50px);
+}
+
+.text {
+    margin-left: 730px;
+    transform: translateY(-120px);
+}
+
+.text2 {
+    margin-left: 726px;
+    transform: translateY(-204px);
+}
+
+.boardfirst {
+    margin-left: 1000px;
+    transform: translateY(-170px);
+}
+
+.cwguess {
+    margin-left: 100px;
+    transform: translateY(80px);
+}
+
+.c {
+    margin-left: 350px;
+    transform: translateY(110px);
+}
+
+.d {
+    margin-left: 950px;
+    transform: translateY(-140px);
+}
+
+.cw2 {
+    margin-left: 100px;
+    transform: translateY(40px);
+}
+
+.board2 {
+    margin-left: 1000px;
+    transform: translateY(-240px);
+}
+
+.e {
+    margin-left: 340px;
+    transform: translateY(60px);
+}
+
+.f {
+    margin-left: 1040px;
+    transform: translateY(-215px);
+}
+
+.rect1 {
+    background: #d63636;
+    border: solid;
+}
+
+.rect2 {
+    background: #d63636;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+
+.rect3 {
+    background: #d63636;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
