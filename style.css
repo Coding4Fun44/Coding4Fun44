@@ -52,33 +52,33 @@ h1 {
 }
 
 .image1 {
-    margin-left: 675px;
-    transform: translateY(10px);
+    margin-left: 45%;
+    transform: translateY(113px);
 }
 
 .image {
-    margin-left: 665px;
-    transform: translateY(-55px);
+    margin-left: 44.5%;
+    transform: translateY(-112px);
 }
 
 .image2 {
-    margin-left: 659px;
-    transform: translateY(-135px);
+    margin-left: 44.1%;
+    transform: translateY(-192px);
 }
 
 .text1{
-    margin-left: 728px;
-    transform: translateY(-50px);
+    margin-left: 49.3%;
+    transform: translateY(55px);
 }
 
 .text {
-    margin-left: 730px;
-    transform: translateY(-120px);
+    margin-left: 49.3%;
+    transform: translateY(-177px);
 }
 
 .text2 {
-    margin-left: 726px;
-    transform: translateY(-204px);
+    margin-left: 49%;
+    transform: translateY(-259px);
 }
 
 .boardfirst {
