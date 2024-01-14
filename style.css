@@ -82,51 +82,48 @@ h1 {
 }
 
 .boardfirst {
-    max-width: 100%;
-    height: auto;
     margin-left: 70%;
-    transform: translateY(-170px);
-}
+    margin-top: -14%;
+} 
 
 .cwguess {
-    max-width: 100%;
-    height: auto;
     margin-left: 7%;
-    transform: translateY(80px);
+    margin-top: 3%;
 }
 
 .c {
-    margin-left: 25%;
-    transform: translateY(110px);
+    margin-left: 22.8%;
+    margin-top: 1%;
+    font-size: 1.1vw;
+    
 }
 
 .d {
-    margin-left: 66%;
-    transform: translateY(-140px);
+    margin-left: 65%;
+    margin-top: 1%;
+    font-size: 1.1vw;
 }
 
 .cw2 {
-    max-width: 100%
-    height: auto;
     margin-left: 7%;
-    transform: translateY(40px);
+    margin-top: 10%;
 }
 
 .board2 {
-    max-width: 100%;
-    height: auto;
     margin-left: 70%;
-    transform: translateY(-240px);
-}
+    margin-top: -17%;
+} 
 
 .e {
-    margin-left: 24%;
-    transform: translateY(60px);
+    margin-left: 21.8%;
+    margin-top: 1%;
+    font-size: 1.1vw;
 }
 
 .f {
     margin-left: 73%;
-    transform: translateY(-215px);
+    margin-top: 1%;
+    font-size: 1.1vw;
 }
 
 .rect1 {
@@ -149,3 +146,24 @@ h1 {
     padding-bottom: 10px;
     border: solid;
 }
+
+.ff {
+    max-width: 50%;
+    height: auto;
+}
+
+.gg {
+    max-width: 100%;
+    height: auto;
+}
+
+.hh {
+    max-width: 50%;
+    height: auto;
+}
+
+.ii {
+    max-width: 100%;
+    height: auto;
+}
+
